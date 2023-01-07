@@ -1,0 +1,3850 @@
+[
+  {
+    "language": "CSS",
+    "files": 14,
+    "lines": 1273,
+    "blanks": 182,
+    "comments": 0,
+    "linesOfCode": 1091
+  },
+  {
+    "language": "JSX",
+    "files": 12,
+    "lines": 767,
+    "blanks": 64,
+    "comments": 5,
+    "linesOfCode": 698
+  },
+  {
+    "language": "JSON",
+    "files": 3,
+    "lines": 29315,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 29315
+  },
+  {
+    "language": "JavaScript",
+    "files": 3,
+    "lines": 59,
+    "blanks": 8,
+    "comments": 0,
+    "linesOfCode": 51
+  },
+  {
+    "language": "SVG",
+    "files": 3,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 33,
+    "blanks": 0,
+    "comments": 13,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 70,
+    "blanks": 32,
+    "comments": 0,
+    "linesOfCode": 38
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 23,
+    "blanks": 5,
+    "comments": 5,
+    "linesOfCode": 13
+  },
+  {
+    "language": "Total",
+    "files": 39,
+    "lines": 31546,
+    "blanks": 291,
+    "comments": 23,
+    "linesOfCode": 31232
+  },
+  {
+    "language": "JSX",
+    "files": 10,
+    "lines": 431,
+    "blanks": 35,
+    "comments": 0,
+    "linesOfCode": 396
+  },
+  {
+    "language": "CSS",
+    "files": 9,
+    "lines": 315,
+    "blanks": 41,
+    "comments": 0,
+    "linesOfCode": 274
+  },
+  {
+    "language": "SVG",
+    "files": 4,
+    "lines": 91,
+    "blanks": 2,
+    "comments": 1,
+    "linesOfCode": 88
+  },
+  {
+    "language": "JSON",
+    "files": 3,
+    "lines": 29207,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 29207
+  },
+  {
+    "language": "JavaScript",
+    "files": 3,
+    "lines": 63,
+    "blanks": 9,
+    "comments": 0,
+    "linesOfCode": 54
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 43,
+    "blanks": 0,
+    "comments": 23,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 70,
+    "blanks": 32,
+    "comments": 0,
+    "linesOfCode": 38
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 23,
+    "blanks": 5,
+    "comments": 5,
+    "linesOfCode": 13
+  },
+  {
+    "language": "Total",
+    "files": 33,
+    "lines": 30246,
+    "blanks": 124,
+    "comments": 29,
+    "linesOfCode": 30093
+  },
+  {
+    "language": "Next",
+    "files": 19,
+    "lines": 1028,
+    "blanks": 135,
+    "comments": 6,
+    "linesOfCode": 887
+  },
+  {
+    "language": "SVG",
+    "files": 15,
+    "lines": 18,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 18
+  },
+  {
+    "language": "CSS",
+    "files": 12,
+    "lines": 1580,
+    "blanks": 105,
+    "comments": 125,
+    "linesOfCode": 1350
+  },
+  {
+    "language": "Sass",
+    "files": 11,
+    "lines": 1478,
+    "blanks": 280,
+    "comments": 4,
+    "linesOfCode": 1194
+  },
+  {
+    "language": "JSON",
+    "files": 3,
+    "lines": 5819,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5819
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 18,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 11
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 62,
+    "lines": 9977,
+    "blanks": 536,
+    "comments": 145,
+    "linesOfCode": 9296
+  },
+  {
+    "language": "Next",
+    "files": 16,
+    "lines": 1395,
+    "blanks": 179,
+    "comments": 0,
+    "linesOfCode": 1216
+  },
+  {
+    "language": "SVG",
+    "files": 12,
+    "lines": 12,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 12
+  },
+  {
+    "language": "CSS",
+    "files": 7,
+    "lines": 953,
+    "blanks": 137,
+    "comments": 0,
+    "linesOfCode": 816
+  },
+  {
+    "language": "JavaScript",
+    "files": 7,
+    "lines": 172,
+    "blanks": 38,
+    "comments": 1,
+    "linesOfCode": 133
+  },
+  {
+    "language": "JSON",
+    "files": 5,
+    "lines": 6329,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 6329
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 26,
+    "blanks": 10,
+    "comments": 0,
+    "linesOfCode": 16
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 49,
+    "lines": 8923,
+    "blanks": 373,
+    "comments": 11,
+    "linesOfCode": 8539
+  },
+  {
+    "language": "SVG",
+    "files": 11,
+    "lines": 162,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 162
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 2280,
+    "blanks": 374,
+    "comments": 15,
+    "linesOfCode": 1891
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 1008,
+    "blanks": 50,
+    "comments": 64,
+    "linesOfCode": 894
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 508,
+    "blanks": 88,
+    "comments": 62,
+    "linesOfCode": 358
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 19,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 8
+  },
+  {
+    "language": "Total",
+    "files": 16,
+    "lines": 3984,
+    "blanks": 514,
+    "comments": 150,
+    "linesOfCode": 3320
+  },
+  {
+    "language": "SVG",
+    "files": 2,
+    "lines": 18,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 18
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 1304,
+    "blanks": 233,
+    "comments": 12,
+    "linesOfCode": 1059
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 1380,
+    "blanks": 7,
+    "comments": 53,
+    "linesOfCode": 1320
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 242,
+    "blanks": 64,
+    "comments": 40,
+    "linesOfCode": 138
+  },
+  {
+    "language": "Total",
+    "files": 5,
+    "lines": 2944,
+    "blanks": 304,
+    "comments": 105,
+    "linesOfCode": 2535
+  },
+  {
+    "language": "JavaScript",
+    "files": 19,
+    "lines": 17262,
+    "blanks": 2352,
+    "comments": 2406,
+    "linesOfCode": 240
+  },
+  {
+    "language": "CSS",
+    "files": 7,
+    "lines": 1864,
+    "blanks": 237,
+    "comments": 92,
+    "linesOfCode": 1535
+  },
+  {
+    "language": "HTML",
+    "files": 2,
+    "lines": 421,
+    "blanks": 26,
+    "comments": 13,
+    "linesOfCode": 382
+  },
+  {
+    "language": "SVG",
+    "files": 2,
+    "lines": 2,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 2
+  },
+  {
+    "language": "JSON",
+    "files": 1,
+    "lines": 41,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 41
+  },
+  {
+    "language": "XML",
+    "files": 1,
+    "lines": 2,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 2
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 18,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 7
+  },
+  {
+    "language": "Total",
+    "files": 33,
+    "lines": 19610,
+    "blanks": 2617,
+    "comments": 2520,
+    "linesOfCode": 14473
+  },
+  {
+    "language": "Next",
+    "files": 29,
+    "lines": 1769,
+    "blanks": 157,
+    "comments": 12,
+    "linesOfCode": 1600
+  },
+  {
+    "language": "CSS",
+    "files": 19,
+    "lines": 2270,
+    "blanks": 353,
+    "comments": 6,
+    "linesOfCode": 1911
+  },
+  {
+    "language": "SVG",
+    "files": 10,
+    "lines": 10,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 10
+  },
+  {
+    "language": "JSON",
+    "files": 5,
+    "lines": 5821,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5821
+  },
+  {
+    "language": "JavaScript",
+    "files": 4,
+    "lines": 78,
+    "blanks": 18,
+    "comments": 1,
+    "linesOfCode": 59
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 27,
+    "blanks": 10,
+    "comments": 0,
+    "linesOfCode": 17
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 69,
+    "lines": 10011,
+    "blanks": 547,
+    "comments": 29,
+    "linesOfCode": 9435
+  },
+  {
+    "language": "TypeScript",
+    "files": 29,
+    "lines": 1769,
+    "blanks": 157,
+    "comments": 12,
+    "linesOfCode": 1600
+  },
+  {
+    "language": "CSS",
+    "files": 19,
+    "lines": 2270,
+    "blanks": 353,
+    "comments": 6,
+    "linesOfCode": 1911
+  },
+  {
+    "language": "SVG",
+    "files": 10,
+    "lines": 10,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 10
+  },
+  {
+    "language": "JSON",
+    "files": 5,
+    "lines": 5821,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5821
+  },
+  {
+    "language": "JavaScript",
+    "files": 4,
+    "lines": 78,
+    "blanks": 18,
+    "comments": 1,
+    "linesOfCode": 59
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 27,
+    "blanks": 10,
+    "comments": 0,
+    "linesOfCode": 17
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 69,
+    "lines": 10011,
+    "blanks": 547,
+    "comments": 29,
+    "linesOfCode": 0
+  },
+  {
+    "language": "TypeScript",
+    "files": 23,
+    "lines": 1215,
+    "blanks": 96,
+    "comments": 1,
+    "linesOfCode": 1118
+  },
+  {
+    "language": "SVG",
+    "files": 17,
+    "lines": 17,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 17
+  },
+  {
+    "language": "CSS",
+    "files": 15,
+    "lines": 1281,
+    "blanks": 190,
+    "comments": 0,
+    "linesOfCode": 1091
+  },
+  {
+    "language": "JSON",
+    "files": 4,
+    "lines": 5250,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5250
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 7,
+    "blanks": 1,
+    "comments": 1,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 32,
+    "blanks": 17,
+    "comments": 0,
+    "linesOfCode": 15
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 62,
+    "lines": 7838,
+    "blanks": 313,
+    "comments": 12,
+    "linesOfCode": 7513
+  },
+  {
+    "language": "Next",
+    "files": 23,
+    "lines": 1215,
+    "blanks": 96,
+    "comments": 1,
+    "linesOfCode": 1118
+  },
+  {
+    "language": "SVG",
+    "files": 17,
+    "lines": 17,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 17
+  },
+  {
+    "language": "CSS",
+    "files": 15,
+    "lines": 1281,
+    "blanks": 190,
+    "comments": 0,
+    "linesOfCode": 1091
+  },
+  {
+    "language": "JSON",
+    "files": 4,
+    "lines": 5250,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5250
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 7,
+    "blanks": 1,
+    "comments": 1,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 32,
+    "blanks": 17,
+    "comments": 0,
+    "linesOfCode": 15
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 62,
+    "lines": 7838,
+    "blanks": 313,
+    "comments": 12,
+    "linesOfCode": 7513
+  },
+  {
+    "language": "SVG",
+    "files": 6,
+    "lines": 9,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 9
+  },
+  {
+    "language": "TypeScript",
+    "files": 5,
+    "lines": 198,
+    "blanks": 20,
+    "comments": 5,
+    "linesOfCode": 173
+  },
+  {
+    "language": "JSON",
+    "files": 4,
+    "lines": 5250,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5250
+  },
+  {
+    "language": "CSS",
+    "files": 3,
+    "lines": 210,
+    "blanks": 26,
+    "comments": 0,
+    "linesOfCode": 184
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 7,
+    "blanks": 1,
+    "comments": 1,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 34,
+    "blanks": 14,
+    "comments": 0,
+    "linesOfCode": 20
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 21,
+    "lines": 5744,
+    "blanks": 70,
+    "comments": 16,
+    "linesOfCode": 5658
+  },
+  {
+    "language": "SVG",
+    "files": 6,
+    "lines": 9,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 9
+  },
+  {
+    "language": "Next",
+    "files": 5,
+    "lines": 198,
+    "blanks": 20,
+    "comments": 5,
+    "linesOfCode": 173
+  },
+  {
+    "language": "JSON",
+    "files": 4,
+    "lines": 5250,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5250
+  },
+  {
+    "language": "CSS",
+    "files": 3,
+    "lines": 210,
+    "blanks": 26,
+    "comments": 0,
+    "linesOfCode": 184
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 7,
+    "blanks": 1,
+    "comments": 1,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 34,
+    "blanks": 14,
+    "comments": 0,
+    "linesOfCode": 20
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 36,
+    "blanks": 9,
+    "comments": 10,
+    "linesOfCode": 17
+  },
+  {
+    "language": "Total",
+    "files": 21,
+    "lines": 5744,
+    "blanks": 70,
+    "comments": 16,
+    "linesOfCode": 5658
+  },
+  {
+    "language": "SVG",
+    "files": 28,
+    "lines": 28,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 28
+  },
+  {
+    "language": "JSX",
+    "files": 17,
+    "lines": 1048,
+    "blanks": 130,
+    "comments": 8,
+    "linesOfCode": 910
+  },
+  {
+    "language": "CSS",
+    "files": 13,
+    "lines": 1566,
+    "blanks": 103,
+    "comments": 125,
+    "linesOfCode": 1338
+  },
+  {
+    "language": "Sass",
+    "files": 11,
+    "lines": 1472,
+    "blanks": 278,
+    "comments": 4,
+    "linesOfCode": 1190
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 57,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 57
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 23,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 23
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 74,
+    "lines": 4229,
+    "blanks": 518,
+    "comments": 142,
+    "linesOfCode": 3569
+  },
+  {
+    "language": "SVG",
+    "files": 24,
+    "lines": 24,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 24
+  },
+  {
+    "language": "JSX",
+    "files": 13,
+    "lines": 391,
+    "blanks": 57,
+    "comments": 0,
+    "linesOfCode": 334
+  },
+  {
+    "language": "CSS",
+    "files": 12,
+    "lines": 855,
+    "blanks": 95,
+    "comments": 125,
+    "linesOfCode": 635
+  },
+  {
+    "language": "Sass",
+    "files": 9,
+    "lines": 561,
+    "blanks": 102,
+    "comments": 0,
+    "linesOfCode": 459
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 54,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 54
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 22,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 22
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 34,
+    "blanks": 13,
+    "comments": 0,
+    "linesOfCode": 21
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 64,
+    "lines": 1976,
+    "blanks": 274,
+    "comments": 130,
+    "linesOfCode": 1572
+  },
+  {
+    "language": "SVG",
+    "files": 36,
+    "lines": 36,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 36
+  },
+  {
+    "language": "JSX",
+    "files": 9,
+    "lines": 285,
+    "blanks": 55,
+    "comments": 0,
+    "linesOfCode": 230
+  },
+  {
+    "language": "CSS",
+    "files": 7,
+    "lines": 947,
+    "blanks": 97,
+    "comments": 125,
+    "linesOfCode": 725
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 676,
+    "blanks": 135,
+    "comments": 0,
+    "linesOfCode": 541
+  },
+  {
+    "language": "JSON",
+    "files": 3,
+    "lines": 248,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 248
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 62,
+    "lines": 2246,
+    "blanks": 294,
+    "comments": 130,
+    "linesOfCode": 1822
+  },
+  {
+    "language": "JSX",
+    "files": 11,
+    "lines": 213,
+    "blanks": 43,
+    "comments": 0,
+    "linesOfCode": 170
+  },
+  {
+    "language": "CSS",
+    "files": 10,
+    "lines": 512,
+    "blanks": 80,
+    "comments": 126,
+    "linesOfCode": 306
+  },
+  {
+    "language": "Sass",
+    "files": 7,
+    "lines": 176,
+    "blanks": 23,
+    "comments": 1,
+    "linesOfCode": 152
+  },
+  {
+    "language": "SVG",
+    "files": 5,
+    "lines": 5,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5
+  },
+  {
+    "language": "JSON",
+    "files": 3,
+    "lines": 122,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 122
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 36,
+    "blanks": 13,
+    "comments": 0,
+    "linesOfCode": 23
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 40,
+    "lines": 1118,
+    "blanks": 166,
+    "comments": 132,
+    "linesOfCode": 820
+  },
+  {
+    "language": "JSX",
+    "files": 7,
+    "lines": 245,
+    "blanks": 46,
+    "comments": 0,
+    "linesOfCode": 199
+  },
+  {
+    "language": "CSS",
+    "files": 5,
+    "lines": 775,
+    "blanks": 125,
+    "comments": 125,
+    "linesOfCode": 525
+  },
+  {
+    "language": "Sass",
+    "files": 3,
+    "lines": 444,
+    "blanks": 88,
+    "comments": 5,
+    "linesOfCode": 351
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 54,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 54
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 93,
+    "blanks": 36,
+    "comments": 0,
+    "linesOfCode": 57
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 21,
+    "lines": 1665,
+    "blanks": 302,
+    "comments": 135,
+    "linesOfCode": 1228
+  },
+  {
+    "language": "JSX",
+    "files": 15,
+    "lines": 543,
+    "blanks": 100,
+    "comments": 12,
+    "linesOfCode": 431
+  },
+  {
+    "language": "SVG",
+    "files": 9,
+    "lines": 9,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 9
+  },
+  {
+    "language": "CSS",
+    "files": 8,
+    "lines": 951,
+    "blanks": 87,
+    "comments": 125,
+    "linesOfCode": 739
+  },
+  {
+    "language": "Sass",
+    "files": 6,
+    "lines": 703,
+    "blanks": 122,
+    "comments": 2,
+    "linesOfCode": 579
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 54,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 54
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 35,
+    "blanks": 13,
+    "comments": 0,
+    "linesOfCode": 22
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 44,
+    "lines": 2349,
+    "blanks": 329,
+    "comments": 144,
+    "linesOfCode": 1876
+  },
+  {
+    "language": "JSX",
+    "files": 14,
+    "lines": 539,
+    "blanks": 84,
+    "comments": 0,
+    "linesOfCode": 455
+  },
+  {
+    "language": "CSS",
+    "files": 12,
+    "lines": 1215,
+    "blanks": 107,
+    "comments": 125,
+    "linesOfCode": 983
+  },
+  {
+    "language": "Sass",
+    "files": 9,
+    "lines": 998,
+    "blanks": 173,
+    "comments": 1,
+    "linesOfCode": 824
+  },
+  {
+    "language": "SVG",
+    "files": 6,
+    "lines": 6,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 6
+  },
+  {
+    "language": "JSON",
+    "files": 3,
+    "lines": 162,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 162
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 47,
+    "lines": 2974,
+    "blanks": 371,
+    "comments": 131,
+    "linesOfCode": 2472
+  },
+  {
+    "language": "CSS",
+    "files": 8,
+    "lines": 542,
+    "blanks": 85,
+    "comments": 125,
+    "linesOfCode": 332
+  },
+  {
+    "language": "JSX",
+    "files": 8,
+    "lines": 186,
+    "blanks": 32,
+    "comments": 5,
+    "linesOfCode": 149
+  },
+  {
+    "language": "Sass",
+    "files": 6,
+    "lines": 226,
+    "blanks": 35,
+    "comments": 2,
+    "linesOfCode": 189
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 53,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 53
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 35,
+    "blanks": 15,
+    "comments": 0,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "SVG",
+    "files": 1,
+    "lines": 1,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 1
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 29,
+    "lines": 1097,
+    "blanks": 174,
+    "comments": 137,
+    "linesOfCode": 786
+  },
+  {
+    "language": "JSX",
+    "files": 12,
+    "lines": 235,
+    "blanks": 29,
+    "comments": 0,
+    "linesOfCode": 206
+  },
+  {
+    "language": "CSS",
+    "files": 10,
+    "lines": 768,
+    "blanks": 91,
+    "comments": 125,
+    "linesOfCode": 552
+  },
+  {
+    "language": "Sass",
+    "files": 8,
+    "lines": 461,
+    "blanks": 69,
+    "comments": 2,
+    "linesOfCode": 390
+  },
+  {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 55,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 55
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 18,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 18
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 32,
+    "blanks": 7,
+    "comments": 5,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Total",
+    "files": 42,
+    "lines": 1579,
+    "blanks": 196,
+    "comments": 132,
+    "linesOfCode": 1251
+  },
+  {
+    "language": "JSX",
+    "files": 13,
+    "lines": 243,
+    "blanks": 46,
+    "comments": 0,
+    "linesOfCode": 197
+  },
+  {
+    "language": "CSS",
+    "files": 9,
+    "lines": 166,
+    "blanks": 18,
+    "comments": 0,
+    "linesOfCode": 148
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 59,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 59
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 43,
+    "blanks": 0,
+    "comments": 23,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 23,
+    "blanks": 5,
+    "comments": 5,
+    "linesOfCode": 13
+  },
+  {
+    "language": "Total",
+    "files": 27,
+    "lines": 537,
+    "blanks": 69,
+    "comments": 28,
+    "linesOfCode": 440
+  },
+  {
+    "language": "SVG",
+    "files": 19,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 53,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 53
+  },
+  {
+    "language": "JSX",
+    "files": 2,
+    "lines": 16,
+    "blanks": 3,
+    "comments": 0,
+    "linesOfCode": 13
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 15,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 11
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 20,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 45,
+    "blanks": 18,
+    "comments": 0,
+    "linesOfCode": 27
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 5,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 28,
+    "lines": 176,
+    "blanks": 25,
+    "comments": 0,
+    "linesOfCode": 151
+  },
+  {
+    "language": "JSX",
+    "files": 5,
+    "lines": 95,
+    "blanks": 12,
+    "comments": 0,
+    "linesOfCode": 83
+  },
+  {
+    "language": "CSS",
+    "files": 4,
+    "lines": 51,
+    "blanks": 10,
+    "comments": 0,
+    "linesOfCode": 41
+  },
+  {
+    "language": "SVG",
+    "files": 3,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "JSON",
+    "files": 2,
+    "lines": 54,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 54
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 20,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 20
+  },
+  {
+    "language": "Plain Text",
+    "files": 1,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 1,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 1
+  },
+  {
+    "language": "Total",
+    "files": 17,
+    "lines": 227,
+    "blanks": 22,
+    "comments": 0,
+    "linesOfCode": 205
+  },
+  {
+    "language": "SVG",
+    "files": 5,
+    "lines": 5,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 189,
+    "blanks": 36,
+    "comments": 3,
+    "linesOfCode": 150
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 173,
+    "blanks": 30,
+    "comments": 2,
+    "linesOfCode": 141
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 33,
+    "blanks": 8,
+    "comments": 0,
+    "linesOfCode": 25
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 12,
+    "lines": 416,
+    "blanks": 76,
+    "comments": 14,
+    "linesOfCode": 326
+  },
+  {
+    "language": "SVG",
+    "files": 6,
+    "lines": 6,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 722,
+    "blanks": 138,
+    "comments": 3,
+    "linesOfCode": 581
+  },
+  {
+    "language": "HTML",
+    "files": 2,
+    "lines": 267,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 260
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 687,
+    "blanks": 73,
+    "comments": 2,
+    "linesOfCode": 612
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 14,
+    "lines": 1698,
+    "blanks": 220,
+    "comments": 14,
+    "linesOfCode": 1464
+  },
+  {
+    "language": "SVG",
+    "files": 4,
+    "lines": 4,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 461,
+    "blanks": 77,
+    "comments": 3,
+    "linesOfCode": 381
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 448,
+    "blanks": 52,
+    "comments": 2,
+    "linesOfCode": 394
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 68,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 64
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 7,
+    "blanks": 2,
+    "comments": 0,
+    "linesOfCode": 5
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 12,
+    "lines": 1004,
+    "blanks": 137,
+    "comments": 14,
+    "linesOfCode": 853
+  },
+  {
+    "language": "SVG",
+    "files": 6,
+    "lines": 6,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 494,
+    "blanks": 88,
+    "comments": 3,
+    "linesOfCode": 403
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 505,
+    "blanks": 69,
+    "comments": 2,
+    "linesOfCode": 434
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 298,
+    "blanks": 14,
+    "comments": 0,
+    "linesOfCode": 284
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 32,
+    "blanks": 8,
+    "comments": 0,
+    "linesOfCode": 24
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 14,
+    "lines": 1351,
+    "blanks": 181,
+    "comments": 14,
+    "linesOfCode": 1156
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 456,
+    "blanks": 80,
+    "comments": 4,
+    "linesOfCode": 372
+  },
+  {
+    "language": "SVG",
+    "files": 2,
+    "lines": 2,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 2
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 461,
+    "blanks": 61,
+    "comments": 2,
+    "linesOfCode": 398
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 86,
+    "blanks": 5,
+    "comments": 0,
+    "linesOfCode": 81
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 9,
+    "lines": 1021,
+    "blanks": 148,
+    "comments": 15,
+    "linesOfCode": 858
+  },
+  {
+    "language": "SVG",
+    "files": 19,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 724,
+    "blanks": 138,
+    "comments": 5,
+    "linesOfCode": 581
+  },
+  {
+    "language": "Markdown",
+    "files": 3,
+    "lines": 248,
+    "blanks": 96,
+    "comments": 0,
+    "linesOfCode": 152
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 705,
+    "blanks": 72,
+    "comments": 2,
+    "linesOfCode": 631
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 200,
+    "blanks": 3,
+    "comments": 0,
+    "linesOfCode": 197
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 13,
+    "blanks": 3,
+    "comments": 0,
+    "linesOfCode": 10
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 15,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Total",
+    "files": 30,
+    "lines": 1924,
+    "blanks": 314,
+    "comments": 16,
+    "linesOfCode": 1594
+  },
+  {
+    "language": "SVG",
+    "files": 11,
+    "lines": 11,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 11
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 880,
+    "blanks": 161,
+    "comments": 5,
+    "linesOfCode": 714
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 912,
+    "blanks": 95,
+    "comments": 2,
+    "linesOfCode": 815
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 246,
+    "blanks": 5,
+    "comments": 0,
+    "linesOfCode": 241
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 28,
+    "blanks": 6,
+    "comments": 2,
+    "linesOfCode": 20
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 19,
+    "lines": 2093,
+    "blanks": 269,
+    "comments": 18,
+    "linesOfCode": 1806
+  },
+  {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 676,
+    "blanks": 139,
+    "comments": 5,
+    "linesOfCode": 532
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 639,
+    "blanks": 68,
+    "comments": 2,
+    "linesOfCode": 569
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 188,
+    "blanks": 5,
+    "comments": 0,
+    "linesOfCode": 183
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 14,
+    "lines": 1526,
+    "blanks": 214,
+    "comments": 16,
+    "linesOfCode": 1296
+  },
+  {
+    "language": "SVG",
+    "files": 10,
+    "lines": 10,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 10
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 672,
+    "blanks": 128,
+    "comments": 5,
+    "linesOfCode": 539
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 650,
+    "blanks": 66,
+    "comments": 2,
+    "linesOfCode": 582
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 156,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 149
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 17,
+    "lines": 1504,
+    "blanks": 203,
+    "comments": 16,
+    "linesOfCode": 1285
+  },
+  {
+    "language": "SVG",
+    "files": 9,
+    "lines": 9,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 9
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 874,
+    "blanks": 162,
+    "comments": 7,
+    "linesOfCode": 705
+  },
+  {
+    "language": "Markdown",
+    "files": 3,
+    "lines": 240,
+    "blanks": 93,
+    "comments": 0,
+    "linesOfCode": 147
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 856,
+    "blanks": 91,
+    "comments": 2,
+    "linesOfCode": 763
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 161,
+    "blanks": 6,
+    "comments": 0,
+    "linesOfCode": 155
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 36,
+    "blanks": 7,
+    "comments": 2,
+    "linesOfCode": 27
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 15,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Total",
+    "files": 20,
+    "lines": 2191,
+    "blanks": 361,
+    "comments": 20,
+    "linesOfCode": 1810
+  },
+  {
+    "language": "SVG",
+    "files": 19,
+    "lines": 19,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 19
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 728,
+    "blanks": 133,
+    "comments": 4,
+    "linesOfCode": 591
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 697,
+    "blanks": 84,
+    "comments": 2,
+    "linesOfCode": 611
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 155,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 151
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 31,
+    "blanks": 7,
+    "comments": 2,
+    "linesOfCode": 22
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+  },
+  {
+    "language": "Total",
+    "files": 27,
+    "lines": 1646,
+    "blanks": 230,
+    "comments": 17,
+    "linesOfCode": 1399
+  },
+  {
+    "language": "SVG",
+    "files": 4,
+    "lines": 4,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 365,
+    "blanks": 59,
+    "comments": 3,
+    "linesOfCode": 303
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 389,
+    "blanks": 44,
+    "comments": 2,
+    "linesOfCode": 343
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 55,
+    "blanks": 3,
+    "comments": 0,
+    "linesOfCode": 52
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 15,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Total",
+    "files": 11,
+    "lines": 828,
+    "blanks": 108,
+    "comments": 14,
+    "linesOfCode": 706
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 346,
+    "blanks": 65,
+    "comments": 3,
+    "linesOfCode": 278
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 340,
+    "blanks": 50,
+    "comments": 2,
+    "linesOfCode": 288
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 136,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 132
+  },
+  {
+    "language": "SVG",
+    "files": 1,
+    "lines": 1,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 1
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 18,
+    "blanks": 3,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 8,
+    "lines": 841,
+    "blanks": 122,
+    "comments": 14,
+    "linesOfCode": 705
+  },
+  {
+    "language": "SVG",
+    "files": 9,
+    "lines": 9,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 9
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 930,
+    "blanks": 173,
+    "comments": 6,
+    "linesOfCode": 751
+  },
+  {
+    "language": "JavaScript",
+    "files": 3,
+    "lines": 142,
+    "blanks": 40,
+    "comments": 6,
+    "linesOfCode": 96
+  },
+  {
+    "language": "HTML",
+    "files": 2,
+    "lines": 255,
+    "blanks": 7,
+    "comments": 4,
+    "linesOfCode": 244
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 890,
+    "blanks": 98,
+    "comments": 3,
+    "linesOfCode": 789
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 18,
+    "blanks": 3,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 20,
+    "lines": 2244,
+    "blanks": 321,
+    "comments": 28,
+    "linesOfCode": 1895
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 396,
+    "blanks": 69,
+    "comments": 3,
+    "linesOfCode": 324
+  },
+  {
+    "language": "JavaScript",
+    "files": 2,
+    "lines": 140,
+    "blanks": 19,
+    "comments": 27,
+    "linesOfCode": 94
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 385,
+    "blanks": 53,
+    "comments": 2,
+    "linesOfCode": 330
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 71,
+    "blanks": 8,
+    "comments": 0,
+    "linesOfCode": 63
+  },
+  {
+    "language": "SVG",
+    "files": 1,
+    "lines": 1,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 1
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 10,
+    "lines": 1010,
+    "blanks": 151,
+    "comments": 41,
+    "linesOfCode": 818
+  },
+  {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 700,
+    "blanks": 128,
+    "comments": 3,
+    "linesOfCode": 569
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 655,
+    "blanks": 70,
+    "comments": 2,
+    "linesOfCode": 583
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 273,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 266
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 14,
+    "blanks": 2,
+    "comments": 0,
+    "linesOfCode": 12
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 15,
+    "lines": 1666,
+    "blanks": 209,
+    "comments": 14,
+    "linesOfCode": 1443
+  },
+  {
+    "language": "SVG",
+    "files": 4,
+    "lines": 4,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 399,
+    "blanks": 70,
+    "comments": 3,
+    "linesOfCode": 326
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 432,
+    "blanks": 53,
+    "comments": 2,
+    "linesOfCode": 377
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 56,
+    "blanks": 5,
+    "comments": 0,
+    "linesOfCode": 51
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 49,
+    "blanks": 10,
+    "comments": 2,
+    "linesOfCode": 37
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 12,
+    "lines": 957,
+    "blanks": 140,
+    "comments": 16,
+    "linesOfCode": 801
+  },
+  {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 374,
+    "blanks": 68,
+    "comments": 3,
+    "linesOfCode": 303
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 362,
+    "blanks": 43,
+    "comments": 2,
+    "linesOfCode": 317
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 57,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 50
+  },
+  {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 15,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 11
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 15,
+    "lines": 832,
+    "blanks": 124,
+    "comments": 14,
+    "linesOfCode": 694
+  },
+  {
+    "language": "SVG",
+    "files": 4,
+    "lines": 4,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 394,
+    "blanks": 70,
+    "comments": 4,
+    "linesOfCode": 320
+  },
+  {
+    "language": "JavaScript",
+    "files": 2,
+    "lines": 28,
+    "blanks": 4,
+    "comments": 1,
+    "linesOfCode": 23
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 400,
+    "blanks": 47,
+    "comments": 3,
+    "linesOfCode": 350
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 62,
+    "blanks": 5,
+    "comments": 0,
+    "linesOfCode": 57
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 13,
+    "lines": 905,
+    "blanks": 128,
+    "comments": 17,
+    "linesOfCode": 760
+  },
+  {
+    "language": "Sass",
+    "files": 4,
+    "lines": 362,
+    "blanks": 64,
+    "comments": 3,
+    "linesOfCode": 295
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 347,
+    "blanks": 48,
+    "comments": 2,
+    "linesOfCode": 297
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 57,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 53
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 7,
+    "lines": 783,
+    "blanks": 118,
+    "comments": 14,
+    "linesOfCode": 651
+  },
+  {
+    "language": "SVG",
+    "files": 4,
+    "lines": 4,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 4
+  },
+  {
+    "language": "Sass",
+    "files": 3,
+    "lines": 224,
+    "blanks": 48,
+    "comments": 2,
+    "linesOfCode": 174
+  },
+  {
+    "language": "CSS",
+    "files": 1,
+    "lines": 214,
+    "blanks": 19,
+    "comments": 1,
+    "linesOfCode": 194
+  },
+  {
+    "language": "HTML",
+    "files": 1,
+    "lines": 61,
+    "blanks": 10,
+    "comments": 0,
+    "linesOfCode": 51
+  },
+  {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+  },
+  {
+    "language": "Total",
+    "files": 10,
+    "lines": 520,
+    "blanks": 79,
+    "comments": 12,
+    "linesOfCode": 429
+  },
+  {
+    "language": "SVG",
+    "files": 5,
+    "lines": 5,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Sass",
+    "files": 3,
+    "lines": 273,
+    "blanks": 54,
+    "comments": 2,
+    "linesOfCode": 217
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 318,
+    "blanks": 22,
+    "comments": 1,
+    "linesOfCode": 295
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 126,
+    "blanks": 6,
+    "comments": 1,
+    "linesOfCode": 119
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 11,
+    "lines": 739,
+    "blanks": 84,
+    "comments": 13,
+    "linesOfCode": 642
+   },
+   {
+    "language": "SVG",
+    "files": 3,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+   },
+   {
+    "language": "Sass",
+    "files": 3,
+    "lines": 149,
+    "blanks": 27,
+    "comments": 2,
+    "linesOfCode": 120
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 162,
+    "blanks": 16,
+    "comments": 1,
+    "linesOfCode": 145
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 54,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 50
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 9,
+    "lines": 385,
+    "blanks": 49,
+    "comments": 12,
+    "linesOfCode": 324
+   },
+   {
+    "language": "SVG",
+    "files": 3,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+   },
+   {
+    "language": "Sass",
+    "files": 3,
+    "lines": 177,
+    "blanks": 37,
+    "comments": 2,
+    "linesOfCode": 138
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 164,
+    "blanks": 18,
+    "comments": 1,
+    "linesOfCode": 145
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 68,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 64
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 9,
+    "lines": 429,
+    "blanks": 61,
+    "comments": 12,
+    "linesOfCode": 356
+   },
+   {
+    "language": "Sass",
+    "files": 3,
+    "lines": 173,
+    "blanks": 32,
+    "comments": 2,
+    "linesOfCode": 139
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 170,
+    "blanks": 17,
+    "comments": 1,
+    "linesOfCode": 152
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 60,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 56
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 6,
+    "lines": 420,
+    "blanks": 55,
+    "comments": 12,
+    "linesOfCode": 353
+   },
+   {
+   "language": "SVG",
+   "files": 4,
+   "lines": 4,
+   "blanks": 0,
+   "comments": 0,
+   "linesOfCode": 4
+  },
+  {
+   "language": "Sass",
+   "files": 3,
+   "lines": 206,
+   "blanks": 37,
+   "comments": 3,
+   "linesOfCode": 166
+  },
+  {
+   "language": "CSS",
+   "files": 1,
+   "lines": 187,
+   "blanks": 18,
+   "comments": 1,
+   "linesOfCode": 168
+  },
+  {
+   "language": "HTML",
+   "files": 1,
+   "lines": 51,
+   "blanks": 6,
+   "comments": 0,
+   "linesOfCode": 45
+  },
+  {
+   "language": "gitignore",
+   "files": 1,
+   "lines": 17,
+   "blanks": 2,
+   "comments": 9,
+   "linesOfCode": 6
+  },
+  {
+   "language": "Total",
+   "files": 10,
+   "lines": 465,
+   "blanks": 63,
+   "comments": 13,
+   "linesOfCode": 389
+  },
+  {
+    "language": "SVG",
+    "files": 14,
+    "lines": 14,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 14
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 739,
+    "blanks": 145,
+    "comments": 4,
+    "linesOfCode": 590
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 689,
+    "blanks": 80,
+    "comments": 2,
+    "linesOfCode": 607
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 168,
+    "blanks": 12,
+    "comments": 0,
+    "linesOfCode": 156
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 52,
+    "blanks": 10,
+    "comments": 2,
+    "linesOfCode": 40
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 22,
+    "lines": 1679,
+    "blanks": 249,
+    "comments": 17,
+    "linesOfCode": 1413
+   },
+   {
+    "language": "SVG",
+    "files": 4,
+    "lines": 4,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 4
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 568,
+    "blanks": 96,
+    "comments": 6,
+    "linesOfCode": 466
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 544,
+    "blanks": 71,
+    "comments": 3,
+    "linesOfCode": 470
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 66,
+    "blanks": 3,
+    "comments": 0,
+    "linesOfCode": 63
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 111,
+    "blanks": 19,
+    "comments": 4,
+    "linesOfCode": 88
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 12,
+    "lines": 1310,
+    "blanks": 191,
+    "comments": 22,
+    "linesOfCode": 1097
+   },
+   {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 892,
+    "blanks": 168,
+    "comments": 6,
+    "linesOfCode": 718
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 882,
+    "blanks": 107,
+    "comments": 5,
+    "linesOfCode": 770
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 401,
+    "blanks": 19,
+    "comments": 10,
+    "linesOfCode": 372
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 307,
+    "blanks": 98,
+    "comments": 17,
+    "linesOfCode": 192
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 15,
+    "lines": 2506,
+    "blanks": 394,
+    "comments": 47,
+    "linesOfCode": 2065
+   },
+   {
+    "language": "SVG",
+    "files": 12,
+    "lines": 12,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 12
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 744,
+    "blanks": 136,
+    "comments": 5,
+    "linesOfCode": 603
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 709,
+    "blanks": 82,
+    "comments": 3,
+    "linesOfCode": 624
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 191,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 184
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 87,
+    "blanks": 18,
+    "comments": 0,
+    "linesOfCode": 69
+   },
+   {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 49,
+    "blanks": 19,
+    "comments": 0,
+    "linesOfCode": 30
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 21,
+    "lines": 1808,
+    "blanks": 264,
+    "comments": 17,
+    "linesOfCode": 1527
+   },
+   {
+    "language": "SVG",
+    "files": 6,
+    "lines": 6,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 644,
+    "blanks": 127,
+    "comments": 3,
+    "linesOfCode": 514
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 592,
+    "blanks": 66,
+    "comments": 2,
+    "linesOfCode": 524
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 143,
+    "blanks": 10,
+    "comments": 0,
+    "linesOfCode": 133
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 13,
+    "lines": 1401,
+    "blanks": 205,
+    "comments": 14,
+    "linesOfCode": 1182
+   },
+   {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 751,
+    "blanks": 135,
+    "comments": 3,
+    "linesOfCode": 613
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 707,
+    "blanks": 80,
+    "comments": 2,
+    "linesOfCode": 625
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 168,
+    "blanks": 11,
+    "comments": 2,
+    "linesOfCode": 155
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 32,
+    "blanks": 6,
+    "comments": 0,
+    "linesOfCode": 26
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 15,
+    "lines": 1681,
+    "blanks": 234,
+    "comments": 16,
+    "linesOfCode": 1431
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 452,
+    "blanks": 77,
+    "comments": 3,
+    "linesOfCode": 372
+   },
+   {
+    "language": "SVG",
+    "files": 3,
+    "lines": 3,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 3
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 481,
+    "blanks": 66,
+    "comments": 2,
+    "linesOfCode": 413
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 95,
+    "blanks": 13,
+    "comments": 0,
+    "linesOfCode": 82
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 112,
+    "blanks": 18,
+    "comments": 4,
+    "linesOfCode": 90
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 11,
+    "lines": 1159,
+    "blanks": 176,
+    "comments": 18,
+    "linesOfCode": 965
+   },
+   {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 626,
+    "blanks": 120,
+    "comments": 5,
+    "linesOfCode": 501
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 653,
+    "blanks": 83,
+    "comments": 4,
+    "linesOfCode": 566
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 99,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 92
+   },
+   {
+    "language": "JSON",
+    "files": 1,
+    "lines": 34,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 34
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 132,
+    "blanks": 26,
+    "comments": 4,
+    "linesOfCode": 102
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 16,
+    "lines": 1567,
+    "blanks": 238,
+    "comments": 22,
+    "linesOfCode": 1307
+   },
+   {
+    "language": "SVG",
+    "files": 7,
+    "lines": 7,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 7
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 460,
+    "blanks": 84,
+    "comments": 2,
+    "linesOfCode": 374
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 456,
+    "blanks": 61,
+    "comments": 2,
+    "linesOfCode": 393
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 127,
+    "blanks": 5,
+    "comments": 0,
+    "linesOfCode": 122
+   },
+   {
+    "language": "JSON",
+    "files": 1,
+    "lines": 104,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 104
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 36,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 29
+   },
+   {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 39,
+    "blanks": 14,
+    "comments": 0,
+    "linesOfCode": 25
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 17,
+    "lines": 1245,
+    "blanks": 173,
+    "comments": 13,
+    "linesOfCode": 1059
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 395,
+    "blanks": 68,
+    "comments": 3,
+    "linesOfCode": 324
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 409,
+    "blanks": 57,
+    "comments": 2,
+    "linesOfCode": 350
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 55,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 48
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 52,
+    "blanks": 8,
+    "comments": 11,
+    "linesOfCode": 33
+   },
+   {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 43,
+    "blanks": 18,
+    "comments": 0,
+    "linesOfCode": 25
+   },
+   {
+    "language": "SVG",
+    "files": 1,
+    "lines": 1,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 1
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 10,
+    "lines": 971,
+    "blanks": 160,
+    "comments": 25,
+    "linesOfCode": 786
+   },
+   {
+    "language": "SVG",
+    "files": 6,
+    "lines": 6,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Sass",
+    "files": 4,
+    "lines": 478,
+    "blanks": 82,
+    "comments": 5,
+    "linesOfCode": 391
+   },
+   {
+    "language": "CSS",
+    "files": 2,
+    "lines": 774,
+    "blanks": 104,
+    "comments": 6,
+    "linesOfCode": 664
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 49,
+    "blanks": 7,
+    "comments": 0,
+    "linesOfCode": 42
+   },
+   {
+    "language": "JavaScript",
+    "files": 1,
+    "lines": 49,
+    "blanks": 8,
+    "comments": 11,
+    "linesOfCode": 30
+   },
+   {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 38,
+    "blanks": 12,
+    "comments": 0,
+    "linesOfCode": 26
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 16,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 5
+   },
+   {
+    "language": "Total",
+    "files": 16,
+    "lines": 1410,
+    "blanks": 215,
+    "comments": 31,
+    "linesOfCode": 1164
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 485,
+    "blanks": 63,
+    "comments": 2,
+    "linesOfCode": 420
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 69,
+    "blanks": 5,
+    "comments": 0,
+    "linesOfCode": 64
+   },
+   {
+    "language": "SVG",
+    "files": 1,
+    "lines": 1,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 1
+   },
+   {
+    "language": "Total",
+    "files": 3,
+    "lines": 555,
+    "blanks": 68,
+    "comments": 2,
+    "linesOfCode": 485
+   },
+   {
+    "language": "SVG",
+    "files": 4,
+    "lines": 4,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 4
+   },
+   {
+    "language": "Sass",
+    "files": 3,
+    "lines": 142,
+    "blanks": 30,
+    "comments": 3,
+    "linesOfCode": 109
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 110,
+    "blanks": 17,
+    "comments": 1,
+    "linesOfCode": 92
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 61,
+    "blanks": 7,
+    "comments": 1,
+    "linesOfCode": 53
+   },
+   {
+    "language": "Markdown",
+    "files": 1,
+    "lines": 32,
+    "blanks": 13,
+    "comments": 0,
+    "linesOfCode": 19
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 1,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 1
+   },
+   {
+    "language": "Total",
+    "files": 11,
+    "lines": 350,
+    "blanks": 67,
+    "comments": 5,
+    "linesOfCode": 278
+   },
+   {
+    "language": "SVG",
+    "files": 6,
+    "lines": 6,
+    "blanks": 0,
+    "comments": 0,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Sass",
+    "files": 3,
+    "lines": 225,
+    "blanks": 41,
+    "comments": 2,
+    "linesOfCode": 182
+   },
+   {
+    "language": "JavaScript",
+    "files": 2,
+    "lines": 31,
+    "blanks": 7,
+    "comments": 1,
+    "linesOfCode": 23
+   },
+   {
+    "language": "CSS",
+    "files": 1,
+    "lines": 232,
+    "blanks": 23,
+    "comments": 1,
+    "linesOfCode": 208
+   },
+   {
+    "language": "HTML",
+    "files": 1,
+    "lines": 70,
+    "blanks": 4,
+    "comments": 0,
+    "linesOfCode": 66
+   },
+   {
+    "language": "gitignore",
+    "files": 1,
+    "lines": 17,
+    "blanks": 2,
+    "comments": 9,
+    "linesOfCode": 6
+   },
+   {
+    "language": "Total",
+    "files": 14,
+    "lines": 581,
+    "blanks": 77,
+    "comments": 13,
+    "linesOfCode": 491
+   }
+]
